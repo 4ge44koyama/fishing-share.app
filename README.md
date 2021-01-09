@@ -11,11 +11,11 @@
   <a href="https://www.php.net/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" height="60px;" /></a>
   &emsp;
   <a href="https://getbootstrap.jp/"><img src="https://getbootstrap.jp/docs/4.5/assets/img/bootstrap-stack.png" height="60px;" width="90px;" /></a>
-  &emsp;&emsp;&emsp;
+  &emsp;
   <a href="https://jquery.com/"><img src="https://user-images.githubusercontent.com/57832553/73933784-96712500-4920-11ea-974f-23b73e2c6113.png" height="60px;"/></a>
-  &emsp;&emsp;&emsp;
+  &emsp;
   <a href="https://httpd.apache.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/d/db/Apache_HTTP_server_logo_%282016%29.svg" height="60px;" /></a>
-  &emsp;&emsp;&emsp;
+  &emsp;
   <a href="https://www.mysql.com/jp/"><img src="https://d1.awsstatic.com/asset-repository/products/amazon-rds/1024px-MySQL.ff87215b43fd7292af172e2a5d9b844217262571.png" height="60px;" /></a>
 </p>
 
@@ -25,7 +25,7 @@
 
 # 動作確認環境
 
-- MacOS Catalina
+MacOS Catalina
 <br>
 <br>
 MAMP
