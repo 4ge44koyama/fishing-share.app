@@ -70,7 +70,3 @@ MAMP
 <br>
 <br>
 <br>
-
-# 作った人
-- [Twitter](https://twitter.com/Koyama_codeA)
-- [Qiita](https://qiita.com/Shigeyoshi_Koyama)
